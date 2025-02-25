@@ -1,13 +1,9 @@
 
 <html> 
   <head>
-    <title> Simple GitHub Page</title>
-
-
-<style>
-  body {2B1700; background-color: F5FDC; font-family: tahoma, verdana;}
-</style>
-</head>
+                            <title>Simple GitHub Page</title>
+    <style>body {2B1700; background-color: F5FDC; font-family: tahoma, verdana;}</style>
+  </head>
 
 
 <body>
