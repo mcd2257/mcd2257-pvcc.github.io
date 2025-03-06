@@ -1,12 +1,12 @@
 html
 {
-  overflow: hidden;
+  overflow: scroll;
   height: 99%;
 }
                          
 body
 {
-  overflow-y: scroll;
+  overflow: scroll;
   
   background: $ffffff;
   height: 99%;
@@ -36,7 +36,7 @@ body
   display: table; 
   height: 100%;  
   position: relative; 
-  overflow: hidden; 
+  overflow: scroll; 
   width: 600px;
 }
 
