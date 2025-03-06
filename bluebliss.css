@@ -1,11 +1,12 @@
 html
 {
-  overflow: scroll;
+  overflow: hidden;
   height: 99%;
 }
                          
 body
 { 
+  overflow: scroll;	
   background: $ffffff;
   height: 99%;
   margin: 0;
