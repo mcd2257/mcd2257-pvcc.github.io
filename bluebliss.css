@@ -35,7 +35,8 @@ body
   display: table; 
   height: 100%;  
   position: relative; 
-  overflow: hidden;	
+  overflow-y: auto;
+  overflow-x: hidden;	
   width: 600px;
 }
 
