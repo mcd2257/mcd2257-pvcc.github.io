@@ -5,9 +5,7 @@ html
 }
                          
 body
-{
-  overflow: hidden;
-  
+{ 
   background: $ffffff;
   height: 99%;
   margin: 0;
