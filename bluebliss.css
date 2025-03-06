@@ -7,7 +7,7 @@ html
 body
 {
   overflow-y: scroll;
-  height: 100px;
+  
   background: $ffffff;
   height: 99%;
   margin: 0;
