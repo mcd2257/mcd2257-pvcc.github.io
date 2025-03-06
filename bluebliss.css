@@ -5,8 +5,7 @@ html
 }
                          
 body
-{ 
-  overflow: scroll;	
+{ 	
   background: $ffffff;
   height: 99%;
   margin: 0;
