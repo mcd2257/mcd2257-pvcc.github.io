@@ -35,9 +35,7 @@ body
   display: table; 
   height: 100%;  
   position: relative; 
-  overflow-y: auto;
-  overflow-x: hidden;	
-  height: 560px; 
+  overflow: hidden;	
   width: 600px;
 }
 
